@@ -1,0 +1,601 @@
+﻿Ano,UF,Estado,Regiao,Area_Conhecimento,Curso,Sexo,Ingressantes,Concluintes,Taxa_Conclusao_Superior_Pct
+2016,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,9260,4182,20.53
+2016,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,36869,15779,19.45
+2016,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,14457,5757,18.1
+2016,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,27600,12308,20.27
+2016,SP,São Paulo,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,35667,19737,25.15
+2016,SP,São Paulo,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,9140,5268,26.2
+2016,SP,São Paulo,Sudeste,Humanas,Direito e Administração,Feminino,26540,13530,23.17
+2016,SP,São Paulo,Sudeste,Humanas,Direito e Administração,Masculino,18792,9532,23.06
+2016,SP,São Paulo,Sudeste,Saúde,Medicina e Enfermagem,Feminino,30949,16627,24.42
+2016,SP,São Paulo,Sudeste,Saúde,Medicina e Enfermagem,Masculino,12907,6669,23.49
+2016,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,4702,1414,13.67
+2016,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,16801,5247,14.2
+2016,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,7427,2478,15.17
+2016,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,13822,4421,14.54
+2016,MG,Minas Gerais,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,17413,6531,17.05
+2016,MG,Minas Gerais,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,4923,1887,17.43
+2016,MG,Minas Gerais,Sudeste,Humanas,Direito e Administração,Feminino,11462,4988,19.78
+2016,MG,Minas Gerais,Sudeste,Humanas,Direito e Administração,Masculino,10401,4429,19.36
+2016,MG,Minas Gerais,Sudeste,Saúde,Medicina e Enfermagem,Feminino,15131,5727,17.21
+2016,MG,Minas Gerais,Sudeste,Saúde,Medicina e Enfermagem,Masculino,6568,2635,18.24
+2016,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,1282,424,15.07
+2016,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,4752,1679,16.06
+2016,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,2124,722,15.47
+2016,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,4160,1384,15.13
+2016,ES,Espírito Santo,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,5107,2039,18.16
+2016,ES,Espírito Santo,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,1537,676,20.01
+2016,ES,Espírito Santo,Sudeste,Humanas,Direito e Administração,Feminino,3895,1747,20.39
+2016,ES,Espírito Santo,Sudeste,Humanas,Direito e Administração,Masculino,2904,1308,20.47
+2016,ES,Espírito Santo,Sudeste,Saúde,Medicina e Enfermagem,Feminino,4311,1725,18.19
+2016,ES,Espírito Santo,Sudeste,Saúde,Medicina e Enfermagem,Masculino,1747,714,18.6
+2016,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,3918,1543,17.9
+2016,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,15799,6311,18.16
+2016,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,6233,2565,18.71
+2016,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,11819,5064,19.48
+2016,RJ,Rio de Janeiro,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,13811,7743,25.49
+2016,RJ,Rio de Janeiro,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,4362,2152,22.43
+2016,RJ,Rio de Janeiro,Sudeste,Humanas,Direito e Administração,Feminino,9798,5350,24.82
+2016,RJ,Rio de Janeiro,Sudeste,Humanas,Direito e Administração,Masculino,8636,4652,24.49
+2016,RJ,Rio de Janeiro,Sudeste,Saúde,Medicina e Enfermagem,Feminino,14075,6795,21.95
+2016,RJ,Rio de Janeiro,Sudeste,Saúde,Medicina e Enfermagem,Masculino,5385,2619,22.11
+2016,PR,Paraná,Sul,Exatas / STEM,Engenharia de Software e TI,Feminino,3555,1325,16.95
+2016,PR,Paraná,Sul,Exatas / STEM,Engenharia de Software e TI,Masculino,12298,4185,15.47
+2016,PR,Paraná,Sul,Exatas / STEM,Engenharia Civil e Produção,Feminino,5275,1875,16.16
+2016,PR,Paraná,Sul,Exatas / STEM,Engenharia Civil e Produção,Masculino,10947,4091,16.99
+2016,PR,Paraná,Sul,Humanas,Pedagogia e Licenciaturas,Feminino,13253,6128,21.02
+2016,PR,Paraná,Sul,Humanas,Pedagogia e Licenciaturas,Masculino,3305,1588,21.85
+2016,PR,Paraná,Sul,Humanas,Direito e Administração,Feminino,9333,4378,21.33
+2016,PR,Paraná,Sul,Humanas,Direito e Administração,Masculino,7345,3408,21.09
+2016,PR,Paraná,Sul,Saúde,Medicina e Enfermagem,Feminino,11401,5232,20.86
+2016,PR,Paraná,Sul,Saúde,Medicina e Enfermagem,Masculino,4287,1863,19.75
+2016,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia de Software e TI,Feminino,1010,353,15.91
+2016,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia de Software e TI,Masculino,3985,1366,15.59
+2016,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,1883,619,14.94
+2016,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,3382,1205,16.2
+2016,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Pedagogia e Licenciaturas,Feminino,3880,1570,18.39
+2016,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Pedagogia e Licenciaturas,Masculino,1105,453,18.67
+2016,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Direito e Administração,Feminino,3112,1421,20.77
+2016,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Direito e Administração,Masculino,2336,1077,20.97
+2016,MS,Mato Grosso do Sul,Centro-Oeste,Saúde,Medicina e Enfermagem,Feminino,3871,1596,18.75
+2016,MS,Mato Grosso do Sul,Centro-Oeste,Saúde,Medicina e Enfermagem,Masculino,1602,701,19.9
+2017,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,10150,4639,20.78
+2017,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,34296,13828,18.33
+2017,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,14849,6310,19.32
+2017,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,30974,14083,20.67
+2017,SP,São Paulo,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,32331,17684,24.86
+2017,SP,São Paulo,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,9769,5090,23.69
+2017,SP,São Paulo,Sudeste,Humanas,Direito e Administração,Feminino,23667,12578,24.16
+2017,SP,São Paulo,Sudeste,Humanas,Direito e Administração,Masculino,21203,11241,24.1
+2017,SP,São Paulo,Sudeste,Saúde,Medicina e Enfermagem,Feminino,32046,18081,25.65
+2017,SP,São Paulo,Sudeste,Saúde,Medicina e Enfermagem,Masculino,12765,7510,26.74
+2017,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,5079,1598,14.31
+2017,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,17262,5478,14.43
+2017,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,7328,2224,13.8
+2017,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,14662,4807,14.9
+2017,MG,Minas Gerais,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,15928,6388,18.23
+2017,MG,Minas Gerais,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,5156,2054,18.11
+2017,MG,Minas Gerais,Sudeste,Humanas,Direito e Administração,Feminino,11620,4828,18.89
+2017,MG,Minas Gerais,Sudeste,Humanas,Direito e Administração,Masculino,10432,4158,18.12
+2017,MG,Minas Gerais,Sudeste,Saúde,Medicina e Enfermagem,Feminino,16050,6967,19.73
+2017,MG,Minas Gerais,Sudeste,Saúde,Medicina e Enfermagem,Masculino,6112,2639,19.63
+2017,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,1367,475,15.8
+2017,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,5211,1783,15.56
+2017,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,2095,751,16.3
+2017,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,4135,1336,14.7
+2017,ES,Espírito Santo,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,4697,2060,19.94
+2017,ES,Espírito Santo,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,1470,584,18.08
+2017,ES,Espírito Santo,Sudeste,Humanas,Direito e Administração,Feminino,3647,1505,18.76
+2017,ES,Espírito Santo,Sudeste,Humanas,Direito e Administração,Masculino,2926,1196,18.59
+2017,ES,Espírito Santo,Sudeste,Saúde,Medicina e Enfermagem,Feminino,4755,2016,19.28
+2017,ES,Espírito Santo,Sudeste,Saúde,Medicina e Enfermagem,Masculino,2016,819,18.47
+2017,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,3981,1559,17.8
+2017,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,15928,7048,20.12
+2017,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,6301,2697,19.46
+2017,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,13076,5506,19.14
+2017,RJ,Rio de Janeiro,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,14890,7558,23.07
+2017,RJ,Rio de Janeiro,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,3907,2206,25.67
+2017,RJ,Rio de Janeiro,Sudeste,Humanas,Direito e Administração,Feminino,11321,6132,24.62
+2017,RJ,Rio de Janeiro,Sudeste,Humanas,Direito e Administração,Masculino,8144,4210,23.5
+2017,RJ,Rio de Janeiro,Sudeste,Saúde,Medicina e Enfermagem,Feminino,13977,7892,25.67
+2017,RJ,Rio de Janeiro,Sudeste,Saúde,Medicina e Enfermagem,Masculino,5851,3244,25.2
+2017,PR,Paraná,Sul,Exatas / STEM,Engenharia de Software e TI,Feminino,3518,1229,15.89
+2017,PR,Paraná,Sul,Exatas / STEM,Engenharia de Software e TI,Masculino,11880,4730,18.1
+2017,PR,Paraná,Sul,Exatas / STEM,Engenharia Civil e Produção,Feminino,5613,1936,15.68
+2017,PR,Paraná,Sul,Exatas / STEM,Engenharia Civil e Produção,Masculino,9811,3768,17.46
+2017,PR,Paraná,Sul,Humanas,Pedagogia e Licenciaturas,Feminino,11491,5158,20.41
+2017,PR,Paraná,Sul,Humanas,Pedagogia e Licenciaturas,Masculino,3547,1739,22.29
+2017,PR,Paraná,Sul,Humanas,Direito e Administração,Feminino,9177,4165,20.63
+2017,PR,Paraná,Sul,Humanas,Direito e Administração,Masculino,7278,3310,20.68
+2017,PR,Paraná,Sul,Saúde,Medicina e Enfermagem,Feminino,11042,5462,22.49
+2017,PR,Paraná,Sul,Saúde,Medicina e Enfermagem,Masculino,4751,2388,22.85
+2017,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia de Software e TI,Feminino,1146,406,16.13
+2017,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia de Software e TI,Masculino,3816,1311,15.62
+2017,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,1726,581,15.31
+2017,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,3663,1264,15.69
+2017,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Pedagogia e Licenciaturas,Feminino,4310,1962,20.7
+2017,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Pedagogia e Licenciaturas,Masculino,1197,533,20.27
+2017,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Direito e Administração,Feminino,2947,1312,20.24
+2017,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Direito e Administração,Masculino,2176,1005,21.01
+2017,MS,Mato Grosso do Sul,Centro-Oeste,Saúde,Medicina e Enfermagem,Feminino,3562,1463,18.68
+2017,MS,Mato Grosso do Sul,Centro-Oeste,Saúde,Medicina e Enfermagem,Masculino,1543,651,19.19
+2018,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,10597,4984,21.38
+2018,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,37429,16075,19.52
+2018,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,14528,6806,21.3
+2018,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,28913,13624,21.42
+2018,SP,São Paulo,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,37703,22216,26.78
+2018,SP,São Paulo,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,9574,5231,24.84
+2018,SP,São Paulo,Sudeste,Humanas,Direito e Administração,Feminino,26615,14377,24.55
+2018,SP,São Paulo,Sudeste,Humanas,Direito e Administração,Masculino,18752,10541,25.55
+2018,SP,São Paulo,Sudeste,Saúde,Medicina e Enfermagem,Feminino,34179,19649,26.13
+2018,SP,São Paulo,Sudeste,Saúde,Medicina e Enfermagem,Masculino,13196,6863,23.64
+2018,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,4929,1787,16.48
+2018,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,16171,5455,15.33
+2018,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,8164,2851,15.88
+2018,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,14750,5121,15.78
+2018,MG,Minas Gerais,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,16774,6922,18.76
+2018,MG,Minas Gerais,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,5079,2280,20.41
+2018,MG,Minas Gerais,Sudeste,Humanas,Direito e Administração,Feminino,13043,5949,20.73
+2018,MG,Minas Gerais,Sudeste,Humanas,Direito e Administração,Masculino,9697,4143,19.42
+2018,MG,Minas Gerais,Sudeste,Saúde,Medicina e Enfermagem,Feminino,16365,7162,19.89
+2018,MG,Minas Gerais,Sudeste,Saúde,Medicina e Enfermagem,Masculino,6586,2949,20.36
+2018,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,1519,516,15.45
+2018,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,4969,1621,14.83
+2018,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,2303,744,14.69
+2018,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,4201,1475,15.97
+2018,ES,Espírito Santo,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,4896,2201,20.44
+2018,ES,Espírito Santo,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,1322,541,18.61
+2018,ES,Espírito Santo,Sudeste,Humanas,Direito e Administração,Feminino,3827,1656,19.68
+2018,ES,Espírito Santo,Sudeste,Humanas,Direito e Administração,Masculino,2689,1195,20.21
+2018,ES,Espírito Santo,Sudeste,Saúde,Medicina e Enfermagem,Feminino,4814,2033,19.2
+2018,ES,Espírito Santo,Sudeste,Saúde,Medicina e Enfermagem,Masculino,1922,793,18.77
+2018,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,3880,1661,19.46
+2018,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,14916,6493,19.79
+2018,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,6890,3158,20.83
+2018,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,12382,5125,18.82
+2018,RJ,Rio de Janeiro,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,15519,8079,23.67
+2018,RJ,Rio de Janeiro,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,4139,2084,22.89
+2018,RJ,Rio de Janeiro,Sudeste,Humanas,Direito e Administração,Feminino,9831,5722,26.46
+2018,RJ,Rio de Janeiro,Sudeste,Humanas,Direito e Administração,Masculino,8809,4919,25.38
+2018,RJ,Rio de Janeiro,Sudeste,Saúde,Medicina e Enfermagem,Feminino,13293,6805,23.27
+2018,RJ,Rio de Janeiro,Sudeste,Saúde,Medicina e Enfermagem,Masculino,5207,2701,23.58
+2018,PR,Paraná,Sul,Exatas / STEM,Engenharia de Software e TI,Feminino,3547,1404,18.0
+2018,PR,Paraná,Sul,Exatas / STEM,Engenharia de Software e TI,Masculino,12799,4729,16.8
+2018,PR,Paraná,Sul,Exatas / STEM,Engenharia Civil e Produção,Feminino,6007,2387,18.07
+2018,PR,Paraná,Sul,Exatas / STEM,Engenharia Civil e Produção,Masculino,10490,4089,17.72
+2018,PR,Paraná,Sul,Humanas,Pedagogia e Licenciaturas,Feminino,12319,5743,21.19
+2018,PR,Paraná,Sul,Humanas,Pedagogia e Licenciaturas,Masculino,3438,1742,23.04
+2018,PR,Paraná,Sul,Humanas,Direito e Administração,Feminino,8263,3765,20.71
+2018,PR,Paraná,Sul,Humanas,Direito e Administração,Masculino,6528,2935,20.44
+2018,PR,Paraná,Sul,Saúde,Medicina e Enfermagem,Feminino,12006,6034,22.85
+2018,PR,Paraná,Sul,Saúde,Medicina e Enfermagem,Masculino,4620,2098,20.65
+2018,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia de Software e TI,Feminino,1142,409,16.28
+2018,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia de Software e TI,Masculino,3843,1367,16.18
+2018,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,1790,655,16.65
+2018,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,3453,1151,15.16
+2018,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Pedagogia e Licenciaturas,Feminino,3974,1852,21.19
+2018,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Pedagogia e Licenciaturas,Masculino,1144,553,21.98
+2018,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Direito e Administração,Feminino,2985,1287,19.61
+2018,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Direito e Administração,Masculino,2130,995,21.25
+2018,MS,Mato Grosso do Sul,Centro-Oeste,Saúde,Medicina e Enfermagem,Feminino,3412,1580,21.05
+2018,MS,Mato Grosso do Sul,Centro-Oeste,Saúde,Medicina e Enfermagem,Masculino,1614,746,21.02
+2019,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,9943,4547,20.79
+2019,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,34642,15603,20.47
+2019,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,17103,7509,19.96
+2019,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,31166,14837,21.64
+2019,SP,São Paulo,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,33391,17620,23.99
+2019,SP,São Paulo,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,9267,4846,23.77
+2019,SP,São Paulo,Sudeste,Humanas,Direito e Administração,Feminino,23564,13783,26.59
+2019,SP,São Paulo,Sudeste,Humanas,Direito e Administração,Masculino,18441,10160,25.05
+2019,SP,São Paulo,Sudeste,Saúde,Medicina e Enfermagem,Feminino,33713,17645,23.79
+2019,SP,São Paulo,Sudeste,Saúde,Medicina e Enfermagem,Masculino,13706,7504,24.89
+2019,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,4647,1653,16.17
+2019,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,17401,6364,16.62
+2019,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,8103,2930,16.44
+2019,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,13695,4481,14.87
+2019,MG,Minas Gerais,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,17848,8213,20.92
+2019,MG,Minas Gerais,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,5219,2253,19.63
+2019,MG,Minas Gerais,Sudeste,Humanas,Direito e Administração,Feminino,12067,5526,20.82
+2019,MG,Minas Gerais,Sudeste,Humanas,Direito e Administração,Masculino,9433,4424,21.32
+2019,MG,Minas Gerais,Sudeste,Saúde,Medicina e Enfermagem,Feminino,16515,7150,19.68
+2019,MG,Minas Gerais,Sudeste,Saúde,Medicina e Enfermagem,Masculino,6636,3028,20.75
+2019,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,1369,520,17.29
+2019,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,5041,1896,17.1
+2019,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,2241,851,17.28
+2019,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,4118,1357,14.98
+2019,ES,Espírito Santo,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,5398,2286,19.25
+2019,ES,Espírito Santo,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,1388,676,22.16
+2019,ES,Espírito Santo,Sudeste,Humanas,Direito e Administração,Feminino,3902,1793,20.89
+2019,ES,Espírito Santo,Sudeste,Humanas,Direito e Administração,Masculino,2920,1314,20.46
+2019,ES,Espírito Santo,Sudeste,Saúde,Medicina e Enfermagem,Feminino,4462,1968,20.06
+2019,ES,Espírito Santo,Sudeste,Saúde,Medicina e Enfermagem,Masculino,1937,915,21.49
+2019,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,4474,2034,20.67
+2019,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,13761,5975,19.74
+2019,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,6267,2745,19.91
+2019,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,12140,5602,20.98
+2019,RJ,Rio de Janeiro,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,14466,7482,23.51
+2019,RJ,Rio de Janeiro,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,3941,2268,26.17
+2019,RJ,Rio de Janeiro,Sudeste,Humanas,Direito e Administração,Feminino,10841,5591,23.44
+2019,RJ,Rio de Janeiro,Sudeste,Humanas,Direito e Administração,Masculino,7803,4448,25.92
+2019,RJ,Rio de Janeiro,Sudeste,Saúde,Medicina e Enfermagem,Feminino,12567,7302,26.41
+2019,RJ,Rio de Janeiro,Sudeste,Saúde,Medicina e Enfermagem,Masculino,5691,2925,23.36
+2019,PR,Paraná,Sul,Exatas / STEM,Engenharia de Software e TI,Feminino,3360,1417,19.18
+2019,PR,Paraná,Sul,Exatas / STEM,Engenharia de Software e TI,Masculino,12150,4659,17.43
+2019,PR,Paraná,Sul,Exatas / STEM,Engenharia Civil e Produção,Feminino,5964,2502,19.07
+2019,PR,Paraná,Sul,Exatas / STEM,Engenharia Civil e Produção,Masculino,11122,4531,18.52
+2019,PR,Paraná,Sul,Humanas,Pedagogia e Licenciaturas,Feminino,12232,5666,21.06
+2019,PR,Paraná,Sul,Humanas,Pedagogia e Licenciaturas,Masculino,3676,1845,22.82
+2019,PR,Paraná,Sul,Humanas,Direito e Administração,Feminino,8851,4695,24.11
+2019,PR,Paraná,Sul,Humanas,Direito e Administração,Masculino,6602,3279,22.58
+2019,PR,Paraná,Sul,Saúde,Medicina e Enfermagem,Feminino,10471,5180,22.49
+2019,PR,Paraná,Sul,Saúde,Medicina e Enfermagem,Masculino,4310,2009,21.19
+2019,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia de Software e TI,Feminino,1098,413,17.14
+2019,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia de Software e TI,Masculino,4188,1562,16.96
+2019,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,1982,715,16.41
+2019,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,3239,1263,17.72
+2019,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Pedagogia e Licenciaturas,Feminino,3876,1950,22.88
+2019,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Pedagogia e Licenciaturas,Masculino,1054,530,22.9
+2019,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Direito e Administração,Feminino,2699,1343,22.62
+2019,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Direito e Administração,Masculino,2298,1161,22.98
+2019,MS,Mato Grosso do Sul,Centro-Oeste,Saúde,Medicina e Enfermagem,Feminino,3440,1623,21.45
+2019,MS,Mato Grosso do Sul,Centro-Oeste,Saúde,Medicina e Enfermagem,Masculino,1621,761,21.34
+2020,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,10564,4965,21.36
+2020,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,34397,15996,21.14
+2020,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,16418,7961,22.04
+2020,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,26705,11746,19.99
+2020,SP,São Paulo,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,37629,23176,28.0
+2020,SP,São Paulo,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,9829,5801,26.83
+2020,SP,São Paulo,Sudeste,Humanas,Direito e Administração,Feminino,24302,13345,24.96
+2020,SP,São Paulo,Sudeste,Humanas,Direito e Administração,Masculino,19684,11118,25.68
+2020,SP,São Paulo,Sudeste,Saúde,Medicina e Enfermagem,Feminino,32377,17440,24.48
+2020,SP,São Paulo,Sudeste,Saúde,Medicina e Enfermagem,Masculino,14040,8775,28.41
+2020,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,5220,1856,16.16
+2020,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,16423,6097,16.88
+2020,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,8154,2727,15.21
+2020,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,15005,5578,16.9
+2020,MG,Minas Gerais,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,18394,8565,21.17
+2020,MG,Minas Gerais,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,4927,2182,20.14
+2020,MG,Minas Gerais,Sudeste,Humanas,Direito e Administração,Feminino,13172,6270,21.64
+2020,MG,Minas Gerais,Sudeste,Humanas,Direito e Administração,Masculino,8975,3716,18.82
+2020,MG,Minas Gerais,Sudeste,Saúde,Medicina e Enfermagem,Feminino,15311,7225,21.45
+2020,MG,Minas Gerais,Sudeste,Saúde,Medicina e Enfermagem,Masculino,6877,2910,19.24
+2020,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,1517,245,7.35
+2020,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,5381,934,7.9
+2020,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,2466,404,7.45
+2020,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,4103,651,7.22
+2020,ES,Espírito Santo,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,4710,2321,22.4
+2020,ES,Espírito Santo,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,1501,755,22.87
+2020,ES,Espírito Santo,Sudeste,Humanas,Direito e Administração,Feminino,3929,1843,21.33
+2020,ES,Espírito Santo,Sudeste,Humanas,Direito e Administração,Masculino,2983,1488,22.68
+2020,ES,Espírito Santo,Sudeste,Saúde,Medicina e Enfermagem,Feminino,4873,2171,20.26
+2020,ES,Espírito Santo,Sudeste,Saúde,Medicina e Enfermagem,Masculino,1870,816,19.85
+2020,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,4687,2112,20.49
+2020,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,13994,6372,20.7
+2020,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,6969,3018,19.69
+2020,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,11408,5194,20.7
+2020,RJ,Rio de Janeiro,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,14868,8743,26.73
+2020,RJ,Rio de Janeiro,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,4193,2496,27.07
+2020,RJ,Rio de Janeiro,Sudeste,Humanas,Direito e Administração,Feminino,10728,6098,25.84
+2020,RJ,Rio de Janeiro,Sudeste,Humanas,Direito e Administração,Masculino,8863,4909,25.18
+2020,RJ,Rio de Janeiro,Sudeste,Saúde,Medicina e Enfermagem,Feminino,12700,6595,23.6
+2020,RJ,Rio de Janeiro,Sudeste,Saúde,Medicina e Enfermagem,Masculino,5734,3291,26.09
+2020,PR,Paraná,Sul,Exatas / STEM,Engenharia de Software e TI,Feminino,3800,1451,17.36
+2020,PR,Paraná,Sul,Exatas / STEM,Engenharia de Software e TI,Masculino,11603,4283,16.78
+2020,PR,Paraná,Sul,Exatas / STEM,Engenharia Civil e Produção,Feminino,5622,2282,18.45
+2020,PR,Paraná,Sul,Exatas / STEM,Engenharia Civil e Produção,Masculino,10063,3987,18.01
+2020,PR,Paraná,Sul,Humanas,Pedagogia e Licenciaturas,Feminino,13287,6584,22.53
+2020,PR,Paraná,Sul,Humanas,Pedagogia e Licenciaturas,Masculino,3527,1876,24.18
+2020,PR,Paraná,Sul,Humanas,Direito e Administração,Feminino,8811,4567,23.56
+2020,PR,Paraná,Sul,Humanas,Direito e Administração,Masculino,7448,4064,24.81
+2020,PR,Paraná,Sul,Saúde,Medicina e Enfermagem,Feminino,10718,5828,24.72
+2020,PR,Paraná,Sul,Saúde,Medicina e Enfermagem,Masculino,4634,2261,22.18
+2020,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia de Software e TI,Feminino,1188,482,18.44
+2020,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia de Software e TI,Masculino,3999,1466,16.66
+2020,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,1911,690,16.42
+2020,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,3102,1099,16.12
+2020,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Pedagogia e Licenciaturas,Feminino,3814,1721,20.51
+2020,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Pedagogia e Licenciaturas,Masculino,1077,527,22.26
+2020,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Direito e Administração,Feminino,2763,1288,21.2
+2020,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Direito e Administração,Masculino,2433,1159,21.66
+2020,MS,Mato Grosso do Sul,Centro-Oeste,Saúde,Medicina e Enfermagem,Feminino,3790,1716,20.58
+2020,MS,Mato Grosso do Sul,Centro-Oeste,Saúde,Medicina e Enfermagem,Masculino,1433,634,20.12
+2021,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,10014,4486,20.36
+2021,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,32645,14165,19.72
+2021,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,15428,7119,20.98
+2021,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,27232,12372,20.65
+2021,SP,São Paulo,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,35119,21358,27.64
+2021,SP,São Paulo,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,9170,5673,28.12
+2021,SP,São Paulo,Sudeste,Humanas,Direito e Administração,Feminino,25715,14123,24.96
+2021,SP,São Paulo,Sudeste,Humanas,Direito e Administração,Masculino,20983,13230,28.66
+2021,SP,São Paulo,Sudeste,Saúde,Medicina e Enfermagem,Feminino,29706,16876,25.82
+2021,SP,São Paulo,Sudeste,Saúde,Medicina e Enfermagem,Masculino,13689,8402,27.9
+2021,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,4909,1695,15.7
+2021,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,16481,5954,16.42
+2021,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,8181,2901,16.12
+2021,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,13886,5227,17.11
+2021,MG,Minas Gerais,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,15887,7010,20.06
+2021,MG,Minas Gerais,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,5005,2451,22.26
+2021,MG,Minas Gerais,Sudeste,Humanas,Direito e Administração,Feminino,12343,5707,21.02
+2021,MG,Minas Gerais,Sudeste,Humanas,Direito e Administração,Masculino,9071,4136,20.73
+2021,MG,Minas Gerais,Sudeste,Saúde,Medicina e Enfermagem,Feminino,15701,6916,20.02
+2021,MG,Minas Gerais,Sudeste,Saúde,Medicina e Enfermagem,Masculino,6144,2768,20.49
+2021,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,1410,513,16.55
+2021,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,4742,1728,16.56
+2021,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,2228,886,18.09
+2021,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,4189,1614,17.52
+2021,ES,Espírito Santo,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,5304,2523,21.63
+2021,ES,Espírito Santo,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,1335,639,21.76
+2021,ES,Espírito Santo,Sudeste,Humanas,Direito e Administração,Feminino,3690,1826,22.5
+2021,ES,Espírito Santo,Sudeste,Humanas,Direito e Administração,Masculino,2828,1263,20.31
+2021,ES,Espírito Santo,Sudeste,Saúde,Medicina e Enfermagem,Feminino,4455,2072,21.15
+2021,ES,Espírito Santo,Sudeste,Saúde,Medicina e Enfermagem,Masculino,1929,928,21.88
+2021,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,4362,2123,22.13
+2021,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,14780,6398,19.68
+2021,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,6493,2771,19.4
+2021,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,11574,4946,19.43
+2021,RJ,Rio de Janeiro,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,14076,7791,25.16
+2021,RJ,Rio de Janeiro,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,3961,2420,27.78
+2021,RJ,Rio de Janeiro,Sudeste,Humanas,Direito e Administração,Feminino,9925,5717,26.19
+2021,RJ,Rio de Janeiro,Sudeste,Humanas,Direito e Administração,Masculino,8240,5102,28.15
+2021,RJ,Rio de Janeiro,Sudeste,Saúde,Medicina e Enfermagem,Feminino,12652,7137,25.64
+2021,RJ,Rio de Janeiro,Sudeste,Saúde,Medicina e Enfermagem,Masculino,5923,3602,27.65
+2021,PR,Paraná,Sul,Exatas / STEM,Engenharia de Software e TI,Feminino,3950,1552,17.86
+2021,PR,Paraná,Sul,Exatas / STEM,Engenharia de Software e TI,Masculino,11595,4867,19.08
+2021,PR,Paraná,Sul,Exatas / STEM,Engenharia Civil e Produção,Feminino,6241,2574,18.75
+2021,PR,Paraná,Sul,Exatas / STEM,Engenharia Civil e Produção,Masculino,10276,4053,17.93
+2021,PR,Paraná,Sul,Humanas,Pedagogia e Licenciaturas,Feminino,13018,6410,22.38
+2021,PR,Paraná,Sul,Humanas,Pedagogia e Licenciaturas,Masculino,3420,1753,23.31
+2021,PR,Paraná,Sul,Humanas,Direito e Administração,Feminino,8970,4459,22.6
+2021,PR,Paraná,Sul,Humanas,Direito e Administração,Masculino,6606,3491,24.03
+2021,PR,Paraná,Sul,Saúde,Medicina e Enfermagem,Feminino,10975,5773,23.91
+2021,PR,Paraná,Sul,Saúde,Medicina e Enfermagem,Masculino,4383,2268,23.52
+2021,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia de Software e TI,Feminino,1228,439,16.27
+2021,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia de Software e TI,Masculino,3874,1406,16.5
+2021,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,1765,733,18.89
+2021,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,3208,1297,18.39
+2021,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Pedagogia e Licenciaturas,Feminino,3896,1964,22.92
+2021,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Pedagogia e Licenciaturas,Masculino,1191,592,22.6
+2021,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Direito e Administração,Feminino,2898,1398,21.93
+2021,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Direito e Administração,Masculino,2232,1169,23.82
+2021,MS,Mato Grosso do Sul,Centro-Oeste,Saúde,Medicina e Enfermagem,Feminino,3887,2048,23.95
+2021,MS,Mato Grosso do Sul,Centro-Oeste,Saúde,Medicina e Enfermagem,Masculino,1417,720,23.1
+2022,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,11557,5188,20.41
+2022,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,31827,15632,22.33
+2022,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,16848,8403,22.67
+2022,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,26716,13231,22.51
+2022,SP,São Paulo,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,33424,18967,25.79
+2022,SP,São Paulo,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,9368,5917,28.71
+2022,SP,São Paulo,Sudeste,Humanas,Direito e Administração,Feminino,25866,15595,27.41
+2022,SP,São Paulo,Sudeste,Humanas,Direito e Administração,Masculino,19352,12344,28.99
+2022,SP,São Paulo,Sudeste,Saúde,Medicina e Enfermagem,Feminino,31400,19841,28.72
+2022,SP,São Paulo,Sudeste,Saúde,Medicina e Enfermagem,Masculino,12922,7605,26.75
+2022,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,5248,1884,16.32
+2022,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,17382,6447,16.86
+2022,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,7791,3072,17.93
+2022,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,13602,5078,16.97
+2022,MG,Minas Gerais,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,18276,8781,21.84
+2022,MG,Minas Gerais,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,4543,2293,22.95
+2022,MG,Minas Gerais,Sudeste,Humanas,Direito e Administração,Feminino,12571,5758,20.82
+2022,MG,Minas Gerais,Sudeste,Humanas,Direito e Administração,Masculino,9121,4502,22.44
+2022,MG,Minas Gerais,Sudeste,Saúde,Medicina e Enfermagem,Feminino,15920,7537,21.52
+2022,MG,Minas Gerais,Sudeste,Saúde,Medicina e Enfermagem,Masculino,6782,3344,22.42
+2022,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,1473,547,16.9
+2022,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,4741,1888,18.1
+2022,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,2225,862,17.62
+2022,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,4266,1733,18.47
+2022,ES,Espírito Santo,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,4941,2532,23.3
+2022,ES,Espírito Santo,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,1340,689,23.39
+2022,ES,Espírito Santo,Sudeste,Humanas,Direito e Administração,Feminino,3423,1638,21.75
+2022,ES,Espírito Santo,Sudeste,Humanas,Direito e Administração,Masculino,2996,1374,20.86
+2022,ES,Espírito Santo,Sudeste,Saúde,Medicina e Enfermagem,Feminino,4415,2227,22.94
+2022,ES,Espírito Santo,Sudeste,Saúde,Medicina e Enfermagem,Masculino,1951,971,22.64
+2022,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,4701,2179,21.07
+2022,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,13866,6227,20.41
+2022,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,6671,3271,22.29
+2022,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,12129,5496,20.6
+2022,RJ,Rio de Janeiro,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,14729,9245,28.53
+2022,RJ,Rio de Janeiro,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,3948,2341,26.96
+2022,RJ,Rio de Janeiro,Sudeste,Humanas,Direito e Administração,Feminino,10650,6341,27.07
+2022,RJ,Rio de Janeiro,Sudeste,Humanas,Direito e Administração,Masculino,7715,4786,28.2
+2022,RJ,Rio de Janeiro,Sudeste,Saúde,Medicina e Enfermagem,Feminino,14422,8523,26.86
+2022,RJ,Rio de Janeiro,Sudeste,Saúde,Medicina e Enfermagem,Masculino,5683,3553,28.42
+2022,PR,Paraná,Sul,Exatas / STEM,Engenharia de Software e TI,Feminino,3967,1564,17.92
+2022,PR,Paraná,Sul,Exatas / STEM,Engenharia de Software e TI,Masculino,12308,5224,19.3
+2022,PR,Paraná,Sul,Exatas / STEM,Engenharia Civil e Produção,Feminino,5848,2533,19.69
+2022,PR,Paraná,Sul,Exatas / STEM,Engenharia Civil e Produção,Masculino,10780,4805,20.26
+2022,PR,Paraná,Sul,Humanas,Pedagogia e Licenciaturas,Feminino,12381,6146,22.56
+2022,PR,Paraná,Sul,Humanas,Pedagogia e Licenciaturas,Masculino,3793,2122,25.44
+2022,PR,Paraná,Sul,Humanas,Direito e Administração,Feminino,8421,4772,25.76
+2022,PR,Paraná,Sul,Humanas,Direito e Administração,Masculino,7456,3964,24.17
+2022,PR,Paraná,Sul,Saúde,Medicina e Enfermagem,Feminino,11525,6007,23.7
+2022,PR,Paraná,Sul,Saúde,Medicina e Enfermagem,Masculino,4309,2222,23.44
+2022,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia de Software e TI,Feminino,1308,474,16.5
+2022,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia de Software e TI,Masculino,3846,1491,17.62
+2022,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,1935,813,19.11
+2022,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,3195,1228,17.48
+2022,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Pedagogia e Licenciaturas,Feminino,4210,2090,22.57
+2022,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Pedagogia e Licenciaturas,Masculino,1093,542,22.57
+2022,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Direito e Administração,Feminino,2744,1300,21.54
+2022,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Direito e Administração,Masculino,2287,1129,22.45
+2022,MS,Mato Grosso do Sul,Centro-Oeste,Saúde,Medicina e Enfermagem,Feminino,3937,1925,22.24
+2022,MS,Mato Grosso do Sul,Centro-Oeste,Saúde,Medicina e Enfermagem,Masculino,1527,780,23.24
+2023,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,10166,5023,22.46
+2023,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,32224,16660,23.5
+2023,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,15926,7565,21.59
+2023,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,26259,13648,23.63
+2023,SP,São Paulo,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,35112,21811,28.24
+2023,SP,São Paulo,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,9214,5866,28.94
+2023,SP,São Paulo,Sudeste,Humanas,Direito e Administração,Feminino,24030,15657,29.62
+2023,SP,São Paulo,Sudeste,Humanas,Direito e Administração,Masculino,18865,10951,26.39
+2023,SP,São Paulo,Sudeste,Saúde,Medicina e Enfermagem,Feminino,29580,18008,27.67
+2023,SP,São Paulo,Sudeste,Saúde,Medicina e Enfermagem,Masculino,13185,7488,25.82
+2023,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,5627,2118,17.12
+2023,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,16674,6266,17.08
+2023,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,8119,3109,17.41
+2023,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,12991,4678,16.37
+2023,MG,Minas Gerais,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,18153,9387,23.51
+2023,MG,Minas Gerais,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,4741,2198,21.08
+2023,MG,Minas Gerais,Sudeste,Humanas,Direito e Administração,Feminino,12603,5981,21.57
+2023,MG,Minas Gerais,Sudeste,Humanas,Direito e Administração,Masculino,8944,4065,20.66
+2023,MG,Minas Gerais,Sudeste,Saúde,Medicina e Enfermagem,Feminino,16159,7988,22.47
+2023,MG,Minas Gerais,Sudeste,Saúde,Medicina e Enfermagem,Masculino,5897,2711,20.9
+2023,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,1523,613,18.3
+2023,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,4530,1663,16.69
+2023,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,2554,949,16.9
+2023,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,4161,1562,17.07
+2023,ES,Espírito Santo,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,4745,2262,21.67
+2023,ES,Espírito Santo,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,1480,779,23.95
+2023,ES,Espírito Santo,Sudeste,Humanas,Direito e Administração,Feminino,3832,1875,22.24
+2023,ES,Espírito Santo,Sudeste,Humanas,Direito e Administração,Masculino,2936,1390,21.53
+2023,ES,Espírito Santo,Sudeste,Saúde,Medicina e Enfermagem,Feminino,4462,2365,24.1
+2023,ES,Espírito Santo,Sudeste,Saúde,Medicina e Enfermagem,Masculino,1738,806,21.08
+2023,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,4437,1923,19.71
+2023,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,13613,6469,21.6
+2023,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,7035,3506,22.66
+2023,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,12478,5705,20.78
+2023,RJ,Rio de Janeiro,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,14249,8319,26.54
+2023,RJ,Rio de Janeiro,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,4240,2429,26.04
+2023,RJ,Rio de Janeiro,Sudeste,Humanas,Direito e Administração,Feminino,10851,6367,26.67
+2023,RJ,Rio de Janeiro,Sudeste,Humanas,Direito e Administração,Masculino,8429,4968,26.79
+2023,RJ,Rio de Janeiro,Sudeste,Saúde,Medicina e Enfermagem,Feminino,13046,8343,29.07
+2023,RJ,Rio de Janeiro,Sudeste,Saúde,Medicina e Enfermagem,Masculino,5742,3218,25.48
+2023,PR,Paraná,Sul,Exatas / STEM,Engenharia de Software e TI,Feminino,4151,1764,19.33
+2023,PR,Paraná,Sul,Exatas / STEM,Engenharia de Software e TI,Masculino,12842,5732,20.29
+2023,PR,Paraná,Sul,Exatas / STEM,Engenharia Civil e Produção,Feminino,5928,2333,17.89
+2023,PR,Paraná,Sul,Exatas / STEM,Engenharia Civil e Produção,Masculino,9629,4129,19.49
+2023,PR,Paraná,Sul,Humanas,Pedagogia e Licenciaturas,Feminino,12746,6621,23.61
+2023,PR,Paraná,Sul,Humanas,Pedagogia e Licenciaturas,Masculino,3316,1892,25.94
+2023,PR,Paraná,Sul,Humanas,Direito e Administração,Feminino,9654,5244,24.7
+2023,PR,Paraná,Sul,Humanas,Direito e Administração,Masculino,6670,3473,23.67
+2023,PR,Paraná,Sul,Saúde,Medicina e Enfermagem,Feminino,10484,6057,26.27
+2023,PR,Paraná,Sul,Saúde,Medicina e Enfermagem,Masculino,4356,2386,24.9
+2023,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia de Software e TI,Feminino,1227,498,18.46
+2023,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia de Software e TI,Masculino,4021,1704,19.27
+2023,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,1858,689,16.88
+2023,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,3061,1311,19.47
+2023,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Pedagogia e Licenciaturas,Feminino,4298,2233,23.62
+2023,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Pedagogia e Licenciaturas,Masculino,1162,610,23.88
+2023,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Direito e Administração,Feminino,2760,1507,24.83
+2023,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Direito e Administração,Masculino,2258,1132,22.8
+2023,MS,Mato Grosso do Sul,Centro-Oeste,Saúde,Medicina e Enfermagem,Feminino,3703,1752,21.52
+2023,MS,Mato Grosso do Sul,Centro-Oeste,Saúde,Medicina e Enfermagem,Masculino,1427,758,24.15
+2024,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,10499,7742,33.52
+2024,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,32374,23072,32.4
+2024,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,16521,7912,21.77
+2024,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,28877,13697,21.56
+2024,SP,São Paulo,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,35472,21995,28.19
+2024,SP,São Paulo,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,10159,6778,30.33
+2024,SP,São Paulo,Sudeste,Humanas,Direito e Administração,Feminino,26137,15509,26.97
+2024,SP,São Paulo,Sudeste,Humanas,Direito e Administração,Masculino,18314,10955,27.19
+2024,SP,São Paulo,Sudeste,Saúde,Medicina e Enfermagem,Feminino,32436,18704,26.21
+2024,SP,São Paulo,Sudeste,Saúde,Medicina e Enfermagem,Masculino,13042,8248,28.75
+2024,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,5354,2167,18.4
+2024,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,15461,5592,16.44
+2024,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,8665,3359,17.62
+2024,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,14051,5395,17.45
+2024,MG,Minas Gerais,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,16463,8537,23.57
+2024,MG,Minas Gerais,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,5071,2578,23.11
+2024,MG,Minas Gerais,Sudeste,Humanas,Direito e Administração,Feminino,11870,5935,22.73
+2024,MG,Minas Gerais,Sudeste,Humanas,Direito e Administração,Masculino,9464,4350,20.89
+2024,MG,Minas Gerais,Sudeste,Saúde,Medicina e Enfermagem,Feminino,16662,7720,21.06
+2024,MG,Minas Gerais,Sudeste,Saúde,Medicina e Enfermagem,Masculino,6839,3339,22.2
+2024,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,1543,622,18.33
+2024,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,5165,2145,18.88
+2024,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,2591,1064,18.67
+2024,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,4153,1756,19.22
+2024,ES,Espírito Santo,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,4866,2470,23.08
+2024,ES,Espírito Santo,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,1366,750,24.97
+2024,ES,Espírito Santo,Sudeste,Humanas,Direito e Administração,Feminino,3898,1832,21.37
+2024,ES,Espírito Santo,Sudeste,Humanas,Direito e Administração,Masculino,2954,1607,24.74
+2024,ES,Espírito Santo,Sudeste,Saúde,Medicina e Enfermagem,Feminino,4379,2252,23.38
+2024,ES,Espírito Santo,Sudeste,Saúde,Medicina e Enfermagem,Masculino,2010,944,21.35
+2024,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,4900,2264,21.01
+2024,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,15217,7814,23.34
+2024,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,7733,3678,21.62
+2024,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,12462,6279,22.9
+2024,RJ,Rio de Janeiro,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,14391,9201,29.06
+2024,RJ,Rio de Janeiro,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,3870,2384,28.01
+2024,RJ,Rio de Janeiro,Sudeste,Humanas,Direito e Administração,Feminino,10180,5790,25.85
+2024,RJ,Rio de Janeiro,Sudeste,Humanas,Direito e Administração,Masculino,7794,4880,28.46
+2024,RJ,Rio de Janeiro,Sudeste,Saúde,Medicina e Enfermagem,Feminino,13144,8267,28.59
+2024,RJ,Rio de Janeiro,Sudeste,Saúde,Medicina e Enfermagem,Masculino,5126,3015,26.74
+2024,PR,Paraná,Sul,Exatas / STEM,Engenharia de Software e TI,Feminino,4025,1830,20.67
+2024,PR,Paraná,Sul,Exatas / STEM,Engenharia de Software e TI,Masculino,11652,5165,20.15
+2024,PR,Paraná,Sul,Exatas / STEM,Engenharia Civil e Produção,Feminino,6455,2857,20.12
+2024,PR,Paraná,Sul,Exatas / STEM,Engenharia Civil e Produção,Masculino,9496,3814,18.26
+2024,PR,Paraná,Sul,Humanas,Pedagogia e Licenciaturas,Feminino,13219,6722,23.12
+2024,PR,Paraná,Sul,Humanas,Pedagogia e Licenciaturas,Masculino,3731,2069,25.21
+2024,PR,Paraná,Sul,Humanas,Direito e Administração,Feminino,9589,5552,26.32
+2024,PR,Paraná,Sul,Humanas,Direito e Administração,Masculino,7600,4091,24.47
+2024,PR,Paraná,Sul,Saúde,Medicina e Enfermagem,Feminino,11845,6432,24.68
+2024,PR,Paraná,Sul,Saúde,Medicina e Enfermagem,Masculino,4625,2606,25.61
+2024,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia de Software e TI,Feminino,1377,610,20.14
+2024,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia de Software e TI,Masculino,4067,1650,18.45
+2024,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,1951,832,19.4
+2024,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,3089,1191,17.53
+2024,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Pedagogia e Licenciaturas,Feminino,3961,1996,22.91
+2024,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Pedagogia e Licenciaturas,Masculino,1106,552,22.7
+2024,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Direito e Administração,Feminino,2698,1297,21.86
+2024,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Direito e Administração,Masculino,2466,1272,23.46
+2024,MS,Mato Grosso do Sul,Centro-Oeste,Saúde,Medicina e Enfermagem,Feminino,3623,1948,24.44
+2024,MS,Mato Grosso do Sul,Centro-Oeste,Saúde,Medicina e Enfermagem,Masculino,1440,807,25.5
+2025,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,12000,8278,31.36
+2025,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,33082,25899,35.59
+2025,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,18557,9208,22.56
+2025,SP,São Paulo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,28177,13308,21.47
+2025,SP,São Paulo,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,37858,22924,27.52
+2025,SP,São Paulo,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,10601,6880,29.5
+2025,SP,São Paulo,Sudeste,Humanas,Direito e Administração,Feminino,25634,16271,28.85
+2025,SP,São Paulo,Sudeste,Humanas,Direito e Administração,Masculino,18946,11363,27.26
+2025,SP,São Paulo,Sudeste,Saúde,Medicina e Enfermagem,Feminino,30521,18338,27.31
+2025,SP,São Paulo,Sudeste,Saúde,Medicina e Enfermagem,Masculino,13633,8423,28.08
+2025,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,5213,2222,19.38
+2025,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,17396,7370,19.26
+2025,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,9140,3436,17.09
+2025,MG,Minas Gerais,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,13305,5494,18.77
+2025,MG,Minas Gerais,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,17698,8407,21.59
+2025,MG,Minas Gerais,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,5084,2444,21.86
+2025,MG,Minas Gerais,Sudeste,Humanas,Direito e Administração,Feminino,11775,5966,23.03
+2025,MG,Minas Gerais,Sudeste,Humanas,Direito e Administração,Masculino,9823,5012,23.2
+2025,MG,Minas Gerais,Sudeste,Saúde,Medicina e Enfermagem,Feminino,14599,7808,24.31
+2025,MG,Minas Gerais,Sudeste,Saúde,Medicina e Enfermagem,Masculino,6140,2904,21.5
+2025,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,1760,772,19.95
+2025,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,5123,2199,19.52
+2025,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,2564,1057,18.75
+2025,ES,Espírito Santo,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,3733,1505,18.33
+2025,ES,Espírito Santo,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,4966,2478,22.69
+2025,ES,Espírito Santo,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,1481,769,23.6
+2025,ES,Espírito Santo,Sudeste,Humanas,Direito e Administração,Feminino,3396,1683,22.53
+2025,ES,Espírito Santo,Sudeste,Humanas,Direito e Administração,Masculino,2943,1422,21.97
+2025,ES,Espírito Santo,Sudeste,Saúde,Medicina e Enfermagem,Feminino,4874,2530,23.6
+2025,ES,Espírito Santo,Sudeste,Saúde,Medicina e Enfermagem,Masculino,1879,991,23.98
+2025,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia de Software e TI,Feminino,5096,2417,21.57
+2025,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia de Software e TI,Masculino,14558,7153,22.33
+2025,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,7042,3631,23.44
+2025,RJ,Rio de Janeiro,Sudeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,12241,6102,22.66
+2025,RJ,Rio de Janeiro,Sudeste,Humanas,Pedagogia e Licenciaturas,Feminino,15651,10247,29.76
+2025,RJ,Rio de Janeiro,Sudeste,Humanas,Pedagogia e Licenciaturas,Masculino,4319,2814,29.62
+2025,RJ,Rio de Janeiro,Sudeste,Humanas,Direito e Administração,Feminino,10976,6978,28.9
+2025,RJ,Rio de Janeiro,Sudeste,Humanas,Direito e Administração,Masculino,8518,5478,29.23
+2025,RJ,Rio de Janeiro,Sudeste,Saúde,Medicina e Enfermagem,Feminino,12753,8367,29.83
+2025,RJ,Rio de Janeiro,Sudeste,Saúde,Medicina e Enfermagem,Masculino,5837,3325,25.9
+2025,PR,Paraná,Sul,Exatas / STEM,Engenharia de Software e TI,Feminino,4292,1789,18.95
+2025,PR,Paraná,Sul,Exatas / STEM,Engenharia de Software e TI,Masculino,11605,5343,20.93
+2025,PR,Paraná,Sul,Exatas / STEM,Engenharia Civil e Produção,Feminino,5825,2712,21.17
+2025,PR,Paraná,Sul,Exatas / STEM,Engenharia Civil e Produção,Masculino,10362,4598,20.17
+2025,PR,Paraná,Sul,Humanas,Pedagogia e Licenciaturas,Feminino,11494,6243,24.69
+2025,PR,Paraná,Sul,Humanas,Pedagogia e Licenciaturas,Masculino,3585,2177,27.61
+2025,PR,Paraná,Sul,Humanas,Direito e Administração,Feminino,9148,4946,24.58
+2025,PR,Paraná,Sul,Humanas,Direito e Administração,Masculino,7190,4073,25.75
+2025,PR,Paraná,Sul,Saúde,Medicina e Enfermagem,Feminino,11868,6248,23.93
+2025,PR,Paraná,Sul,Saúde,Medicina e Enfermagem,Masculino,4833,2738,25.76
+2025,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia de Software e TI,Feminino,1424,582,18.61
+2025,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia de Software e TI,Masculino,3956,1775,20.4
+2025,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia Civil e Produção,Feminino,1874,841,20.42
+2025,MS,Mato Grosso do Sul,Centro-Oeste,Exatas / STEM,Engenharia Civil e Produção,Masculino,3294,1287,17.77
+2025,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Pedagogia e Licenciaturas,Feminino,3926,2165,25.07
+2025,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Pedagogia e Licenciaturas,Masculino,1064,575,24.57
+2025,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Direito e Administração,Feminino,2840,1544,24.72
+2025,MS,Mato Grosso do Sul,Centro-Oeste,Humanas,Direito e Administração,Masculino,2121,1200,25.72
+2025,MS,Mato Grosso do Sul,Centro-Oeste,Saúde,Medicina e Enfermagem,Feminino,3971,2280,26.11
+2025,MS,Mato Grosso do Sul,Centro-Oeste,Saúde,Medicina e Enfermagem,Masculino,1568,785,22.77
