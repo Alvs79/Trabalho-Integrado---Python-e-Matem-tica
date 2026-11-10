@@ -1,3 +1,6 @@
+**Aluno:** Enzo Abreu Aramuni Alves
+**Turma:** 3D1  
+
 # Projeto Integrador Etapa 3 — Números que Falam: Descobrindo o Brasil (IBGE)
 
 ## Indicador 2: Curso Superior (Atração de Talentos e Mulheres em STEM)
